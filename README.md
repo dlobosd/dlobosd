@@ -3,7 +3,7 @@ Introduction
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=FFF53A&center=true&vCenter=true&width=750&height=45&lines=Software+Developer;Python+%7C+TypeScript+%7C+Lua;Learning+and+building+things" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/dlobosd">Diego</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/dlobosd">broki</a></h3>
 <h5 align="center">Welcome to my GitHub profile</h5>
 
 <p align="center">
